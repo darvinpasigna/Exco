@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exco/static/css/main.035d9abe.css",
+    "main.js": "/Exco/static/js/main.b10d7756.js",
+    "index.html": "/Exco/index.html",
+    "main.035d9abe.css.map": "/Exco/static/css/main.035d9abe.css.map",
+    "main.b10d7756.js.map": "/Exco/static/js/main.b10d7756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035d9abe.css",
+    "static/js/main.b10d7756.js"
+  ]
+}
